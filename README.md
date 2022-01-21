@@ -1,0 +1,2 @@
+# phonebook
+Functional Phonebook that allows users to enter   unlimited amount of contacts with their full name, phone number, email  address, birthday and gender in a organized list. Users have the ability   modify their contacts later on as well as remove them. Users can sort the   contacts through first and last name to keep everything organized and can  import or export their contacts within this program. 
